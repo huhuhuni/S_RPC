@@ -2,7 +2,7 @@
 
 S_RPC is a simple RPC framework designed to provide the ability to call methods remotely.
 
-## S_RPC-0.1
+## S_RPC-0.2
 
 S_RPC-0.1 is developed using the Java language, highly coupled with the Java language, and the communication mode of Socket is based on BIO implementation,It uses Java's native serialization mechanism,It uses Java's object proxy technology.
 
