@@ -1,5 +1,7 @@
-package client;
-import server.service.HelloService;
+package com.huni.client;
+
+import com.huni.client.RPCClient;
+import com.huni.service.HelloService;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;

@@ -1,6 +1,6 @@
-package server.service;
+package com.huni.service;
 
-import server.service.HelloService;
+import com.huni.service.HelloService;
 
 public class HelloServiceImpl implements HelloService {
 

@@ -1,4 +1,4 @@
-package client;
+package com.huni.client;
 
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;

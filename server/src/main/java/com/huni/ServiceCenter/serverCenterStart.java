@@ -1,7 +1,7 @@
-package server.serviceCenter;
+package com.huni.ServiceCenter;
 
-import server.service.HelloService;
-import server.service.HelloServiceImpl;
+import com.huni.service.HelloService;
+import com.huni.service.HelloServiceImpl;
 
 import java.io.IOException;
 

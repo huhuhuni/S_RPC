@@ -1,4 +1,4 @@
-package server.serviceCenter;
+package com.huni.ServiceCenter;
 
 import java.io.IOException;
 import java.io.ObjectInputStream;

@@ -1,4 +1,4 @@
-package server.service;
+package com.huni.service;
 
 public interface HelloService {
 
